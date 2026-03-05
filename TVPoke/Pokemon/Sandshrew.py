@@ -1,7 +1,7 @@
 from TVPoke.BaseClasses.PokeTypes import Ground
 from TVPoke.BaseClasses.Move import Move
 
-class Golduck(Ground):
+class Sandshrew(Ground):
     def __init__(self):
         moves = [
             Move("Scratch", "NORMAL", 40),
